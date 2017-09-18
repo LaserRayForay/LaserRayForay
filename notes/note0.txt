@@ -1,0 +1,6 @@
+Carlos:
+	Starting on figuring out how to create powerups
+
+Ray:
+	Create Test Room
+		- should have a 
